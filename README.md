@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/83c02a4c-64b5-4f82-86d3-d1e8f385942c)
 
+Ссылка на сайт:
+https://yeawful.github.io/Food/
 
 Описание проекта:
 
@@ -43,6 +45,3 @@ npm run build
 ```
 npm run dev
 ```
-
-Ссылка на сайт:
-https://yeawful.github.io/Food/
