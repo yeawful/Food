@@ -20,13 +20,19 @@ Webpack.
 git clone https://github.com/yeawful/food.git
 
 Установить зависимости:
+```
 npm install
+```
 
 Собрать проект:
+```
 npm run build
+```
 
 Запустить проект:
+```
 npm run dev
+```
 
 Языки:
 JavaScript
