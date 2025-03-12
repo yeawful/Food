@@ -44,8 +44,5 @@ npm run build
 npm run dev
 ```
 
-Языки:
-JavaScript
-
 Ссылка на сайт:
 https://yeawful.github.io/Food/
