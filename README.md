@@ -39,13 +39,3 @@ git clone https://github.com/yeawful/food.git
 ```
 npm install
 ```
-
-Собрать проект:
-```
-npm run build
-```
-
-Запустить проект:
-```
-npm run dev
-```
