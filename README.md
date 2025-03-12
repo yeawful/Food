@@ -17,6 +17,9 @@ Cлайдер;
 Таймер обратного отсчета акции.
 ```
 
+![image](https://github.com/user-attachments/assets/ed021211-e548-4bb6-9e66-cdb9a960da9d)
+
+
 Стек технологий:
 ```
 JavaScript:
